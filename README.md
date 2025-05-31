@@ -15,11 +15,10 @@ Welcome to the **React To-Do List App**, a clean, responsive, and intuitive task
 ---
 
 ## 📁 Folder Structure
+```
 react-todo-list/
-│
 ├── public/
 │ └── index.html
-│
 ├── src/
 │ ├── components/
 │ │ ├── TodoList.js
@@ -27,13 +26,10 @@ react-todo-list/
 │ ├── App.js
 │ ├── App.css
 │ └── index.js
-│
 ├── package.json
 ├── README.md
 └── .gitignore
-
-
----
+```
 
 ## 🛠️ Tech Stack
 
